@@ -58,6 +58,7 @@ MIDDLEWARE = [
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
+    "https://todo-react-frontend-nine.vercel.app/",
 ]
 
 ROOT_URLCONF = 'todo_drf.urls'
